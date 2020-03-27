@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidFragments</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="f1button">f1button</string>
+    <string name="f2button">f2button</string>
+</resources>
